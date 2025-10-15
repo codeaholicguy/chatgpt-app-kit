@@ -1,5 +1,2 @@
-// Utility functions for ChatGPT app development
-
-export * from './chat';
+export * from './meta';
 export * from './formatting';
-export * from './validation';
