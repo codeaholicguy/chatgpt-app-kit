@@ -1,6 +1,6 @@
 {
   "name": "chatgpt-app-kit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A utility library for building ChatGPT-integrated applications in React and Node.js",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
